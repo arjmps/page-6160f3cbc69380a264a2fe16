@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-e6370e3086.bosoncovt.cn/sitemap.xml
